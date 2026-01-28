@@ -1,0 +1,29 @@
+[
+  {
+    "id": "monstera",
+    "name": "Monstera Deliciosa",
+    "scientificName": "Monstera deliciosa",
+    "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&q=80&w=400",
+    "difficulty": "Principiante",
+    "water": "Ogni 7-10 giorni",
+    "light": "Luce indiretta"
+  },
+  {
+    "id": "pothos",
+    "name": "Pothos",
+    "scientificName": "Epipremnum aureum",
+    "image": "https://images.unsplash.com/photo-1596724857543-9563a880c1d6?auto=format&fit=crop&q=80&w=400",
+    "difficulty": "Principiante",
+    "water": "Quando asciutto",
+    "light": "Bassa o media luce"
+  },
+  {
+    "id": "ficus-lyrata",
+    "name": "Ficus Lyrata",
+    "scientificName": "Ficus lyrata",
+    "image": "https://images.unsplash.com/photo-1603436326446-fadca5ddd4e7?auto=format&fit=crop&q=80&w=400",
+    "difficulty": "Intermedio",
+    "water": "Ogni 7 giorni",
+    "light": "Luce brillante indiretta"
+  }
+]
