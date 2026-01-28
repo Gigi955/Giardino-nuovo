@@ -1,0 +1,29 @@
+# Tasks: Il mio Giardino App
+
+- [ ] **Project Setup & Design System** <!-- id: 0 -->
+    - [ ] Initialize Vite + React project in `il-mio-giardino` <!-- id: 1 -->
+    - [ ] Install dependencies (Tailwind, Framer Motion, Lucide, Zustand, etc.) <!-- id: 2 -->
+    - [ ] Configure Tailwind theme (Colors, Fonts) <!-- id: 3 -->
+    - [ ] Create basic reusable UI components (Button, Card, Input) <!-- id: 4 -->
+- [ ] **Onboarding & User Setup** <!-- id: 5 -->
+    - [ ] Create Splash Screen with animation <!-- id: 6 -->
+    - [ ] Implement Onboarding Slides (Welcome, Quiz, Permissions) <!-- id: 7 -->
+    - [ ] Save user profile/preferences to store <!-- id: 8 -->
+- [ ] **Core Structure & Dashboard** <!-- id: 9 -->
+    - [ ] Create Layout with Bottom Navigation <!-- id: 10 -->
+    - [ ] Build Dashboard Header (Weather mock, Greetings) <!-- id: 11 -->
+    - [ ] Build 'My Plants' list and status summary <!-- id: 12 -->
+- [ ] **Plant Management (Add/Identify/DB)** <!-- id: 13 -->
+    - [ ] Create Plant Database (JSON data for required species) <!-- id: 14 -->
+    - [ ] Implement 'Add Plant' flow (Search/Select) <!-- id: 15 -->
+    - [ ] Implement 'Identify Plant' mock flow (Camera UI + Simulated AI result) <!-- id: 16 -->
+- [ ] **Plant Detail & Care** <!-- id: 17 -->
+    - [ ] Build Plant Profile Screen (Info, Growth Chart) <!-- id: 18 -->
+    - [ ] Implement Care Logic (Calculators for next watering/etc.) <!-- id: 19 -->
+    - [ ] Add Action buttons (Water, Prune, etc.) <!-- id: 20 -->
+- [ ] **Calendar & Tools** <!-- id: 21 -->
+    - [ ] Build Calendar View (Monthly/Daily) <!-- id: 22 -->
+    - [ ] Implement Settings & Notifications mock <!-- id: 23 -->
+- [ ] **Verification & Polish** <!-- id: 24 -->
+    - [ ] Verify all user flows <!-- id: 25 -->
+    - [ ] Ensure responsive mobile layout <!-- id: 26 -->
